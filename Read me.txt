@@ -1,0 +1,7 @@
+Function:Read 768 points temperature, uart send out with DMA
+MCU:STM32F401RCT6 84MHZ
+Pin connect:
+Uart TX <--> PA9
+Uart RX <--> PA10
+SCL <--> PB6
+SDA <--> PB7
